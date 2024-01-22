@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/FrogLeaper.unity
+    guid: 8f9de0917a6c46a4b87268518615f8f8
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: fbe4813addf708d4789a76f3d26a4395
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 5d02cec1a98772842b12a1f15b9c4867
   m_configObjects: {}
